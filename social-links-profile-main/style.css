@@ -92,7 +92,7 @@ body {
 }
 
 /*responsive*/
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 430px) {
 #card {
     margin-top: 2rem;
     width: 90%;

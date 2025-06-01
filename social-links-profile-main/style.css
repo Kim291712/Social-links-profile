@@ -25,9 +25,9 @@ body {
 
 /*card container*/
 #card {
-    max-width: 23rem;
+    max-width: 370px;
     width: 100%;
-    padding: 2em;
+    padding: 2.5em;
     border-radius: 15px;
     background: var(--Dark_grey);
 
